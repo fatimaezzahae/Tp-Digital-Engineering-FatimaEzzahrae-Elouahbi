@@ -10,5 +10,5 @@
  *Création de la branche de fonctionnalité feature/moyenne pour implémenter la fonction de calcul de la moyenne dans main.c. 
  * Soumission et validation de la Pull Request fusionnée (merged) vers la branche principale main.
  *Gestion du flux Git complet : création de branches de test (demo-test), renommage, suppression propre et résolution du conflit de fusion (merge conflict) sur la  branche main.
- *Lien de la Pull Request fusionnée : https://github.com/votre-pseudo/calcul-c-equipe/pull/1
+ *Lien de la Pull Request fusionnée : 
 
