@@ -13,10 +13,7 @@
  *Lien de la Pull Request fusionnée : https://github.com/fatimaezzahae/calcul-c-equipe/pull/1
 ## 3. Bilan des Commandes:
 ### git status
-On branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
+Cette commande permet de vérifier l'état du dépôt : fichiers modifiés, fichiers non suivis et modifications préparées pour un commit.
 ### git remote -v
 origin  https://github.com/fatimaezzahae/calcul-c-equipe.git (fetch)
 origin  https://github.com/fatimaezzahae/calcul-c-equipe.git (push)
