@@ -14,11 +14,9 @@
 ## 3. Bilan des Commandes:
 ### git status
 Cette commande permet de vérifier l'état du dépôt : fichiers modifiés, fichiers non suivis et modifications préparées pour un commit.
-### git remote -v
-origin  https://github.com/fatimaezzahae/calcul-c-equipe.git (fetch)
-origin  https://github.com/fatimaezzahae/calcul-c-equipe.git (push)
+### git remote -v 
+Cette commande permet d'afficher les dépôts distants configurés ainsi que leurs adresses pour les opérations de récupération (fetch) et de publication (push).
 ### git log --oneline --graph --all
-* 892c33e (HEAD -> main, origin/main, origin/HEAD) Initial commit
 
 
  
