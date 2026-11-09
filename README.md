@@ -17,7 +17,7 @@ Cette commande permet de vérifier l'état du dépôt : fichiers modifiés, fich
 ### git remote -v 
 Cette commande permet d'afficher les dépôts distants configurés ainsi que leurs adresses pour les opérations de récupération (fetch) et de publication (push).
 ### git log --oneline --graph --all
-
+Cette commande permet d'afficher l'historique des commits sur une seule ligne, sous forme graphique, pour toutes les branches. Elle permet de visualiser les branches et les fusions.
 
  
 
