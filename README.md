@@ -18,8 +18,8 @@ Cette commande permet de vérifier l'état du dépôt : fichiers modifiés, fich
 Cette commande permet d'afficher les dépôts distants configurés ainsi que leurs adresses pour les opérations de récupération (fetch) et de publication (push).
 ### git log --oneline --graph --all
 Cette commande permet d'afficher l'historique des commits sur une seule ligne, sous forme graphique, pour toutes les branches. Elle permet de visualiser les branches et les fusions.
-**Conclusion:**
 
+**Conclusion:**
 Ce travail m'a permis de découvrir Git et GitHub, de gérer les versions d'un projet, de collaborer avec un binôme et d'utiliser les Pull Requests pour fusionner des modifications.
 
  
