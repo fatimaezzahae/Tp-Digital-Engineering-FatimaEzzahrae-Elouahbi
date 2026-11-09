@@ -10,5 +10,20 @@
  *Création de la branche de fonctionnalité feature/moyenne pour implémenter la fonction de calcul de la moyenne dans main.c. 
  * Soumission et validation de la Pull Request fusionnée (merged) vers la branche principale main.
  *Gestion du flux Git complet : création de branches de test (demo-test), renommage, suppression propre et résolution du conflit de fusion (merge conflict) sur la  branche main.
- *Lien de la Pull Request fusionnée : 
+ *Lien de la Pull Request fusionnée : https://github.com/fatimaezzahae/calcul-c-equipe/pull/1
+## 3. Bilan des Commandes:
+### git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+### git remote -v
+origin  https://github.com/fatimaezzahae/calcul-c-equipe.git (fetch)
+origin  https://github.com/fatimaezzahae/calcul-c-equipe.git (push)
+### git log --oneline --graph --all
+* 892c33e (HEAD -> main, origin/main, origin/HEAD) Initial commit
+
+
+ 
+
 
